@@ -63,3 +63,5 @@ A saída do processamento é encaminhada ao macrobloco de Atuação, no qual os 
 Dessa forma, o diagrama preserva a rastreabilidade definida nos níveis anteriores:
 Sensoriamento → Processamento e Controle → Atuação
 
+
+[Diagrama Nível 3](diagrama_8d.md)
