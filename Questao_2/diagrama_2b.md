@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
     R[Requisitos] --> M[Modelagem]
     M --> S[Simulação]
@@ -7,3 +8,4 @@ flowchart LR
     VV -. ajustes .-> R
     VV -. correções .-> M
     S -. inconsistências .-> M
+```
